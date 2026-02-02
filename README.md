@@ -1,5 +1,9 @@
 # Clio: Privacy-Preserving Hierarchical Task Classification
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.13678-b31b1b.svg)](https://arxiv.org/abs/2412.13678)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Implementation of the privacy-preserving hierarchical task/intent classification algorithm from the paper:
 **"Clio: Privacy-Preserving Insights into Real-World AI Use"** ([arxiv.org/abs/2412.13678](https://arxiv.org/abs/2412.13678))
 
